@@ -27,7 +27,8 @@
   
   .table-wrapper {
     flex: 1;
-    margin-bottom: 40px;
+    margin-bottom: 50px;
+    margin-right: 50px; 
   }
   
   .table-header {
@@ -65,17 +66,20 @@
   }
   
   .table-heading-cell {
-    background-color: #003366; 
-    color: white; 
-    font-weight: bold; 
-    text-align: center; 
-    padding: 10px; 
+    background-color: #003366;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px; 
   }
   
   .MuiTableCell-body {
     background-color: #fff;
     color: #003366;
+    font-size: 14px; 
+    padding: 8px; 
   }
+  
   
   .MuiTableRow-root {
     border-bottom: 1px solid #003366;
