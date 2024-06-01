@@ -1,0 +1,22 @@
+/* src/CGPACalculator.css */
+.cgpa-calculator {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin-bottom: 50px; 
+  }
+  
+  .cgpa-calculator h2 {
+    font-size: 20px;
+    margin-bottom: 40px; 
+  }
+  
+  .cgpa-calculator p {
+    margin: 5px 0;
+  }
+  
+  .cgpa-calculator h3 {
+    font-size: 18px;
+    margin-top: 20px;
+    color: #333;
+  }
+  
